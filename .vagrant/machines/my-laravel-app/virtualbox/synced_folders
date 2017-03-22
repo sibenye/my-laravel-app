@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/Code/my-laravel-app":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/Code/my-laravel-app","hostpath":"/Users/silver.ibenye/Dev/git/my-laravel-app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/silver.ibenye/Dev/git/my-laravel-app","disabled":false,"__vagrantfile":true}}}
